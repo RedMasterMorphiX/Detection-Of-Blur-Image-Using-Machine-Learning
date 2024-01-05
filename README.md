@@ -1,4 +1,4 @@
-#Read The License File Before Using
+**Read The License File Before Using**
 
 This project introduces a novel approach to blur 
 image detection, leveraging machine learning techniques. It 
